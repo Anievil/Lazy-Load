@@ -1,0 +1,21 @@
+.container{
+    background: white;
+}
+
+.backing-sheet, .pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    height: 450px;
+    margin-bottom: 300px;
+}
+.pic{
+    margin-top:300px;
+}
+
+
+.activeElem{
+    background-color: olive;
+}
